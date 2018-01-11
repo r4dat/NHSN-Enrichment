@@ -27,7 +27,7 @@ In cooperation with the state health department, claims were deterministically l
 
 # Specifications
 
-Procedure codes were pulled from NHSN surgical definitions.
+Procedure codes were pulled from NHSN surgical definitions for colon surgeries.
 
 Claims based diabetes status was determined by ICD-9 diagnosis codes consistent with AHRQ's PSI risk-adjustment methodology. See AHRQ version 5 SAS PSI program, CMBFQI32.
 
