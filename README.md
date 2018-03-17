@@ -9,7 +9,7 @@ Hospitals: Strengthening Quality Improvement Efforts with Public Health Data. In
 # Background
 Surgical Site Infections (SSIs) are potential complications associated with any type of surgical procedure. Although SSIs are among the most preventable of healthcare acquired infections (HAIs) they represent a significant burden in terms of patient morbidity and mortality and additional costs to health systems and service payers. For these reasons, the prevention of SSI has received considerable attention from surgeons and infection control professionals, health care authorities, the media and the public.<sup>1</sup> 
 
-One of the primary tracking systems for SSIs is the Center for Disease Control's National Healthcare Safety Network (NHSN). Among other features it permits risk adjustment based on facturs unique to each surgery such as surgey length, scheduled vs. emergency procedure, diabetes, and other risk factors. As with all such systems, the result is only as good as the data received by NHSN.
+One of the primary tracking systems for SSIs is the Center for Disease Control's National Healthcare Safety Network (NHSN). Among other features it permits risk adjustment based on factors unique to each surgery such as surgey length, scheduled vs. emergency procedure, diabetes, and other risk factors. As with all such systems, the result is only as good as the data received by NHSN.
 
 # Objective
 Compare the diabetes risk flag in NHSN surgical procedures with ICD-9 based administrative claims data (UB-04) indicating diabetes. 
